@@ -1,0 +1,4 @@
+---
+- type: replace
+  path: /my-new-key2?
+  value: "my inserted key value"
