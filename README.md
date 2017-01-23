@@ -2,7 +2,7 @@
 
 ##Syntax
 
-yampatch <target> [ops-file ...]
+`yampatch <target> [ops-file ...]`
 
 This will write the target file, as modified by applying the go-patch-compliant ops-files, to stdout.
 
